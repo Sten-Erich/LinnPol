@@ -1,0 +1,2 @@
+# LinnPol
+Linnade põletamise programm
